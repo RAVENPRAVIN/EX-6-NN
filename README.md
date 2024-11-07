@@ -63,6 +63,7 @@ print(classification_rep)
 <H3>Output:</H3>
 
 ![alt text](OUTPUT/MLP.png)
+<br>
 
 ![alt text](OUTPUT/CM.png)
 
